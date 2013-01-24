@@ -9,6 +9,7 @@ void main(void){
 	printf("15に37を足した値は%dです。\n", 15 + 37);
 
 	int = a;
+	a = a + 10;
 
 
 }
